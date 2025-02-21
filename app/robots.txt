@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://linkbokeplive.pages.dev/sitemap.xml
